@@ -5,3 +5,4 @@
 - [ ] - Make terminal interation with user input
 - [x] - Built the transaction function()
 - [ ] - build user password and email validator
+- [ ] - Use pattern matching
